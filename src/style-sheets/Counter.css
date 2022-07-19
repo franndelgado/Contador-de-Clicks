@@ -1,0 +1,13 @@
+.counter{
+    min-width: 300px;
+    height: 300px;
+    font-size: 160px;
+    font-family: Lato, sans-serif;
+    padding: 25px;
+    color: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 8px solid wheat;
+    margin-bottom: 15px;
+}
